@@ -1,6 +1,5 @@
 # Task_1_SQL_Developer_Internship_K_Ameesha
-Name:K.Ameesha
-
+Name:K.Ameesha 
 Domain: Digital Library Management System  
 Tools: PostgreSQL / pgAdmin
 
@@ -28,6 +27,6 @@ The database structure consists of four core tables connected via referential in
 
 ● Normalization: Decomposing tables up to 3NF to eliminate insertion, update, and deletion anomalies while maintaining logical dependencies.  
 ● Primary Key vs Foreign Key: A Primary Key uniquely identifies rows without allowing NULL values, whereas a Foreign Key references a Primary Key in another table to  establish relationships.  
-● Surrogate Key: An artificial, auto-generated unique identifier (like identity integers) with no external business meaning. 
+● Surrogate Key: An artificial, auto-generated unique identifier (like identity integers) with no external business meaning.  
 ● Composite Key: A primary key formed by joining multiple columns when single attributes are insufficient for uniqueness.  
 MySQL Storage Engine (InnoDB): InnoDB provides ACID compliance, row-level locking, and full foreign key support
