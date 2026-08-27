@@ -16,7 +16,7 @@ This project contains the relational database design, DDL scripts, and core DBMS
 
 The database structure consists of four core tables connected via referential integrity constraints:  
 ● authors: Stores author identity details.  
-● books: Catalogs available books linked to authors via a Foreign Key. 
+● books: Catalogs available books linked to authors via a Foreign Key.  
 ● members: Manages registered library members.  
 ● borrowings: A junction table resolving the many-to-many relationship between members and books.
 
