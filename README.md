@@ -9,6 +9,7 @@ This project contains the relational database design, DDL scripts, and core DBMS
 
 
 
+
 🗄️ Relational Schema Design
 The database structure consists of four core tables connected via referential integrity constraints:  
 ● authors: Stores author identity details.  
