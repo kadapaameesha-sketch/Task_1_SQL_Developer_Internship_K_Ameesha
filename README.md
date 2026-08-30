@@ -28,4 +28,4 @@ The database structure consists of four core tables connected via referential in
 ● Primary Key vs Foreign Key: A Primary Key uniquely identifies rows without allowing NULL values, whereas a Foreign Key references a Primary Key in another table to  establish relationships.  
 ● Surrogate Key: An artificial, auto-generated unique identifier (like identity integers) with no external business meaning.  
 ● Composite Key: A primary key formed by joining multiple columns when single attributes are insufficient for uniqueness.  
-MySQL Storage Engine (InnoDB): InnoDB provides ACID compliance, row-level locking, and full foreign key support
+● MySQL Storage Engine (InnoDB): InnoDB provides ACID compliance, row-level locking, and full foreign key support
